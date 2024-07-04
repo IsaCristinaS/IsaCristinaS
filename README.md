@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IsaCristinaS
-- 👀 I’m interested in front-end
+- 👀 I’m interested in frontend
 - 🌱 I’m currently learning JavaScript, ReactJS
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me: LinkedIn (www.linkedin.com/in/isabella-cristina-da-silva) or email (isabellacristinas100@gmail.com)
